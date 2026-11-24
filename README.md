@@ -1,0 +1,2 @@
+# fronius-welding-dashboard
+dashboard
