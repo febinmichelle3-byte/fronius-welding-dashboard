@@ -1,0 +1,10 @@
+streamlit
+paho-mqtt
+pandas
+numpy
+plotly
+matplotlib
+openpyxl
+xlsxwriter
+opcua
+asyncua
